@@ -1,2 +1,2 @@
 # Cal-Counter
-A simple calorie counter to help with my diet
+A simple calorie counter to help with your diet
